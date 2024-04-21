@@ -1,0 +1,142 @@
+.header-container {
+    
+    width: 1220px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.ul-el {
+    display: flex;
+    width: 601px;
+    justify-content: space-between;
+    
+}
+.consulting {
+    width: 184px;
+    height: 65px;
+    background-color:#6B77E5 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    margin-left: 40px;
+    
+}
+.right-block {
+    display: flex;
+    align-items: center;
+}
+.work-section {
+    margin-top: 136px;
+}
+.parent-container {
+    width: 1220px;
+    margin-top: 136px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.child-container {
+    width: 283px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.text1 {
+    font-size: 18px;
+    color: #37393F;
+    line-height: 21.78px;
+}
+.text2 {
+    font-size: 40px;
+    color: #37393F;
+    line-height: 48.4px;
+    margin-top: 16px;
+}
+.parent-box {
+    width: 1220px;
+    height: 383px;
+    display: flex;
+    justify-content:space-between;
+}
+.child-box {
+    width: 386px;
+    height: 383px;
+    padding: 58 43 58 43;
+    background-color: #F4F4F4;  
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
+.numb1 {
+    margin-left: 43px;
+    margin-right: 31px;
+}
+.numb3 {
+    margin-left: 31px;
+}
+.descr1 {
+    color: #37393F;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.descr2 {
+    margin-top: 16px;
+    text-align: center;
+    width: 300px;
+    height: 78px;
+    margin-top: 16px;
+    margin-bottom: 37px;
+    font-size: 18px;
+    line-height: 26.31px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    color: #7D7D7D;
+}
+.descr3 {
+    font-size: 18px;
+    color: #6B77E5;
+    line-height: 21.78px;
+    
+    
+
+}
+.icon {
+    width: 72px;
+    height: 72px;
+    background-color: #40DDB6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.section2 {
+    width: 1920px;
+    height: 557px;
+    position: absolute;
+}
+.text-box {
+    margin-left: 705px;
+    position: relative;
+}
+.image {
+    width: 20.34px;
+    height: 30.28px;
+    background-color: #6B77E5;
+    border-radius: 50%;
+    margin-left: 134px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
